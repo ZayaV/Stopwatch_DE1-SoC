@@ -5,3 +5,4 @@ simulation/
 *.qws
 *.rpt
 c5_pin_model_dump.txt
+STOPWATCH_assignment_defaults.qdf
